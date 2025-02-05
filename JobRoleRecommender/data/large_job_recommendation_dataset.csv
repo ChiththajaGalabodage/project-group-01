@@ -1,0 +1,501 @@
+Skills,Interest_Areas,Languages,Tools_Techniques,Job_Role
+"JavaScript, React",AI/ML,SQL,"AWS, Azure",DevOps Engineer
+"Python, Data Analysis",Frontend Development,Python,"AWS, Azure",DevOps Engineer
+"Go, Microservices",Embedded Systems,Ruby,"Pandas, NumPy",Backend Developer
+"Go, Microservices",Cloud Computing,C++,"Pandas, NumPy",Backend Developer
+"Go, Microservices",Backend Development,Ruby,"React, Redux",Data Scientist
+"Python, Machine Learning",DevOps,PHP,"Arduino, Raspberry Pi",Embedded Developer
+"SQL, Database Management",Data Science,C++,"AWS, Azure",Full Stack Developer
+"Python, Machine Learning",DevOps,SQL,"Pandas, NumPy",DevOps Engineer
+"SQL, Database Management",Frontend Development,Ruby,"Spring Boot, Hibernate",Embedded Developer
+"JavaScript, React",Data Science,Java,"Pandas, NumPy",Backend Developer
+"Java, Spring Boot",Backend Development,PHP,"AWS, Azure",Data Scientist
+"Python, Machine Learning",Frontend Development,Python,"Arduino, Raspberry Pi",Embedded Developer
+"Ruby, Rails",Cloud Computing,Python,"Spring Boot, Hibernate",Full Stack Developer
+"Python, Machine Learning",DevOps,Go,"Arduino, Raspberry Pi",Full Stack Developer
+"Java, Spring Boot",Embedded Systems,JavaScript,"TensorFlow, Scikit-learn",Full Stack Developer
+"Ruby, Rails",Backend Development,Python,"Docker, Kubernetes",Data Scientist
+"Ruby, Rails",Frontend Development,SQL,"Pandas, NumPy",Embedded Developer
+"Python, Data Analysis",Frontend Development,PHP,"Docker, Kubernetes",Full Stack Developer
+"Go, Microservices",Embedded Systems,Java,"React, Redux",ML Engineer
+"C++, Embedded Systems",Full Stack Development,Ruby,"Spring Boot, Hibernate",Frontend Developer
+"JavaScript, React",Full Stack Development,PHP,"Git, Jenkins",Backend Developer
+"Python, Machine Learning",AI/ML,Java,"Arduino, Raspberry Pi",ML Engineer
+"Python, Data Analysis",DevOps,JavaScript,"Git, Jenkins",Data Scientist
+"Java, Spring Boot",Full Stack Development,PHP,"Git, Jenkins",Frontend Developer
+"Python, Data Analysis",AI/ML,Ruby,"Pandas, NumPy",Frontend Developer
+"Python, Data Analysis",DevOps,PHP,"TensorFlow, Scikit-learn",Cloud Engineer
+"Python, Data Analysis",Backend Development,Ruby,"AWS, Azure",Data Scientist
+"Ruby, Rails",AI/ML,Python,"React, Redux",Embedded Developer
+"Go, Microservices",DevOps,C++,"Spring Boot, Hibernate",ML Engineer
+"Python, Data Analysis",DevOps,Java,"Spring Boot, Hibernate",ML Engineer
+"C++, Embedded Systems",Data Science,SQL,"React, Redux",Full Stack Developer
+"JavaScript, React",Cloud Computing,Go,"TensorFlow, Scikit-learn",ML Engineer
+"JavaScript, React",Cloud Computing,SQL,"Spring Boot, Hibernate",Data Scientist
+"PHP, Laravel",Frontend Development,Java,"Docker, Kubernetes",DevOps Engineer
+"Ruby, Rails",Embedded Systems,PHP,"TensorFlow, Scikit-learn",Embedded Developer
+"SQL, Database Management",Data Science,JavaScript,"Spring Boot, Hibernate",ML Engineer
+"Ruby, Rails",AI/ML,Java,"AWS, Azure",Data Scientist
+"Ruby, Rails",AI/ML,Java,"Arduino, Raspberry Pi",Backend Developer
+"SQL, Database Management",Cloud Computing,Python,"Git, Jenkins",Embedded Developer
+"Ruby, Rails",DevOps,SQL,"TensorFlow, Scikit-learn",ML Engineer
+"Java, Spring Boot",Full Stack Development,Go,"Pandas, NumPy",DevOps Engineer
+"PHP, Laravel",Frontend Development,SQL,"AWS, Azure",Full Stack Developer
+"PHP, Laravel",DevOps,Go,"Git, Jenkins",Backend Developer
+"Go, Microservices",DevOps,Go,"Arduino, Raspberry Pi",Full Stack Developer
+"Python, Data Analysis",AI/ML,Python,"AWS, Azure",Backend Developer
+"PHP, Laravel",Frontend Development,Java,"TensorFlow, Scikit-learn",DevOps Engineer
+"Python, Machine Learning",DevOps,JavaScript,"Docker, Kubernetes",Cloud Engineer
+"PHP, Laravel",DevOps,Ruby,"Spring Boot, Hibernate",Full Stack Developer
+"Go, Microservices",Full Stack Development,SQL,"AWS, Azure",DevOps Engineer
+"JavaScript, React",Backend Development,C++,"TensorFlow, Scikit-learn",Frontend Developer
+"PHP, Laravel",Embedded Systems,SQL,"AWS, Azure",Data Scientist
+"Python, Machine Learning",Cloud Computing,PHP,"Docker, Kubernetes",Embedded Developer
+"Ruby, Rails",Frontend Development,SQL,"Spring Boot, Hibernate",Data Scientist
+"C++, Embedded Systems",Full Stack Development,Java,"AWS, Azure",Data Scientist
+"PHP, Laravel",Full Stack Development,SQL,"Pandas, NumPy",Backend Developer
+"Java, Spring Boot",Backend Development,JavaScript,"React, Redux",Cloud Engineer
+"Python, Data Analysis",DevOps,PHP,"Arduino, Raspberry Pi",Frontend Developer
+"JavaScript, React",AI/ML,C++,"Git, Jenkins",Cloud Engineer
+"Python, Machine Learning",Full Stack Development,PHP,"Spring Boot, Hibernate",Embedded Developer
+"PHP, Laravel",Embedded Systems,C++,"React, Redux",Embedded Developer
+"JavaScript, React",Full Stack Development,JavaScript,"TensorFlow, Scikit-learn",DevOps Engineer
+"C++, Embedded Systems",Cloud Computing,Python,"Spring Boot, Hibernate",Backend Developer
+"PHP, Laravel",Data Science,Ruby,"Docker, Kubernetes",Embedded Developer
+"PHP, Laravel",AI/ML,JavaScript,"Pandas, NumPy",Full Stack Developer
+"SQL, Database Management",Data Science,SQL,"Git, Jenkins",Full Stack Developer
+"JavaScript, React",AI/ML,Ruby,"TensorFlow, Scikit-learn",Data Scientist
+"JavaScript, React",DevOps,Java,"AWS, Azure",Data Scientist
+"JavaScript, React",Full Stack Development,SQL,"AWS, Azure",Backend Developer
+"JavaScript, React",Backend Development,Python,"AWS, Azure",Frontend Developer
+"Ruby, Rails",Embedded Systems,C++,"Docker, Kubernetes",Full Stack Developer
+"Python, Data Analysis",Cloud Computing,Python,"Spring Boot, Hibernate",Embedded Developer
+"Java, Spring Boot",AI/ML,Python,"AWS, Azure",Backend Developer
+"PHP, Laravel",AI/ML,Go,"TensorFlow, Scikit-learn",Full Stack Developer
+"C++, Embedded Systems",Backend Development,Go,"Docker, Kubernetes",Backend Developer
+"C++, Embedded Systems",Full Stack Development,Go,"Pandas, NumPy",Cloud Engineer
+"Python, Machine Learning",Frontend Development,Go,"TensorFlow, Scikit-learn",Embedded Developer
+"Java, Spring Boot",DevOps,Java,"Arduino, Raspberry Pi",ML Engineer
+"C++, Embedded Systems",Cloud Computing,Python,"Git, Jenkins",DevOps Engineer
+"Python, Machine Learning",Embedded Systems,JavaScript,"Spring Boot, Hibernate",Backend Developer
+"JavaScript, React",AI/ML,PHP,"TensorFlow, Scikit-learn",Full Stack Developer
+"Python, Machine Learning",Frontend Development,Ruby,"Git, Jenkins",Frontend Developer
+"JavaScript, React",Full Stack Development,Go,"Docker, Kubernetes",ML Engineer
+"JavaScript, React",Data Science,SQL,"Git, Jenkins",Full Stack Developer
+"JavaScript, React",Data Science,JavaScript,"TensorFlow, Scikit-learn",ML Engineer
+"Go, Microservices",DevOps,PHP,"Arduino, Raspberry Pi",Data Scientist
+"PHP, Laravel",Data Science,PHP,"Git, Jenkins",Backend Developer
+"Ruby, Rails",Data Science,Go,"Spring Boot, Hibernate",DevOps Engineer
+"Python, Machine Learning",AI/ML,C++,"React, Redux",DevOps Engineer
+"C++, Embedded Systems",Backend Development,C++,"AWS, Azure",DevOps Engineer
+"JavaScript, React",AI/ML,Ruby,"Spring Boot, Hibernate",Backend Developer
+"Python, Data Analysis",Frontend Development,Python,"AWS, Azure",ML Engineer
+"PHP, Laravel",Data Science,Go,"Pandas, NumPy",Backend Developer
+"SQL, Database Management",Embedded Systems,Ruby,"Spring Boot, Hibernate",Backend Developer
+"C++, Embedded Systems",Cloud Computing,C++,"Arduino, Raspberry Pi",DevOps Engineer
+"Python, Data Analysis",Frontend Development,C++,"Docker, Kubernetes",Data Scientist
+"SQL, Database Management",AI/ML,SQL,"Pandas, NumPy",Frontend Developer
+"Ruby, Rails",AI/ML,Python,"AWS, Azure",ML Engineer
+"Java, Spring Boot",Cloud Computing,Go,"Spring Boot, Hibernate",ML Engineer
+"C++, Embedded Systems",Backend Development,Go,"Git, Jenkins",ML Engineer
+"Ruby, Rails",DevOps,JavaScript,"Docker, Kubernetes",Full Stack Developer
+"PHP, Laravel",AI/ML,Go,"Docker, Kubernetes",Data Scientist
+"JavaScript, React",Backend Development,PHP,"TensorFlow, Scikit-learn",Frontend Developer
+"Python, Data Analysis",AI/ML,SQL,"AWS, Azure",DevOps Engineer
+"C++, Embedded Systems",Embedded Systems,SQL,"Docker, Kubernetes",ML Engineer
+"Java, Spring Boot",Full Stack Development,SQL,"Docker, Kubernetes",ML Engineer
+"C++, Embedded Systems",Full Stack Development,Go,"Docker, Kubernetes",Cloud Engineer
+"SQL, Database Management",Data Science,Java,"Spring Boot, Hibernate",Embedded Developer
+"C++, Embedded Systems",Data Science,Java,"Spring Boot, Hibernate",Full Stack Developer
+"Java, Spring Boot",Full Stack Development,SQL,"React, Redux",Frontend Developer
+"Go, Microservices",Cloud Computing,JavaScript,"Docker, Kubernetes",Frontend Developer
+"Go, Microservices",Backend Development,Go,"Docker, Kubernetes",Full Stack Developer
+"PHP, Laravel",Cloud Computing,PHP,"Pandas, NumPy",Backend Developer
+"C++, Embedded Systems",Data Science,C++,"Pandas, NumPy",ML Engineer
+"Python, Data Analysis",Full Stack Development,SQL,"Git, Jenkins",Full Stack Developer
+"Python, Machine Learning",Embedded Systems,Go,"TensorFlow, Scikit-learn",Cloud Engineer
+"Python, Data Analysis",Backend Development,PHP,"TensorFlow, Scikit-learn",Backend Developer
+"C++, Embedded Systems",DevOps,C++,"Pandas, NumPy",Embedded Developer
+"Java, Spring Boot",Frontend Development,PHP,"Git, Jenkins",DevOps Engineer
+"Python, Data Analysis",Data Science,Ruby,"Arduino, Raspberry Pi",Backend Developer
+"JavaScript, React",Full Stack Development,C++,"Pandas, NumPy",Frontend Developer
+"Java, Spring Boot",AI/ML,JavaScript,"React, Redux",Data Scientist
+"Python, Data Analysis",AI/ML,Java,"AWS, Azure",Frontend Developer
+"SQL, Database Management",Embedded Systems,JavaScript,"Docker, Kubernetes",Embedded Developer
+"Go, Microservices",DevOps,C++,"Git, Jenkins",Frontend Developer
+"SQL, Database Management",Embedded Systems,Ruby,"AWS, Azure",Data Scientist
+"Python, Data Analysis",AI/ML,JavaScript,"Pandas, NumPy",Embedded Developer
+"PHP, Laravel",AI/ML,Ruby,"Pandas, NumPy",Data Scientist
+"Java, Spring Boot",DevOps,Java,"Pandas, NumPy",Embedded Developer
+"Ruby, Rails",Cloud Computing,C++,"AWS, Azure",Data Scientist
+"Go, Microservices",Full Stack Development,Python,"Git, Jenkins",Data Scientist
+"PHP, Laravel",Cloud Computing,Python,"Spring Boot, Hibernate",Data Scientist
+"PHP, Laravel",Full Stack Development,SQL,"React, Redux",ML Engineer
+"Python, Machine Learning",DevOps,C++,"Arduino, Raspberry Pi",Data Scientist
+"Ruby, Rails",DevOps,SQL,"Git, Jenkins",Cloud Engineer
+"Java, Spring Boot",Backend Development,SQL,"Docker, Kubernetes",Frontend Developer
+"Ruby, Rails",Full Stack Development,Java,"Git, Jenkins",Backend Developer
+"PHP, Laravel",Cloud Computing,PHP,"Docker, Kubernetes",ML Engineer
+"Go, Microservices",Cloud Computing,JavaScript,"React, Redux",Data Scientist
+"Ruby, Rails",AI/ML,C++,"Git, Jenkins",Full Stack Developer
+"Go, Microservices",Frontend Development,Go,"Arduino, Raspberry Pi",Backend Developer
+"PHP, Laravel",Full Stack Development,Go,"TensorFlow, Scikit-learn",ML Engineer
+"Ruby, Rails",AI/ML,Python,"Pandas, NumPy",Cloud Engineer
+"Go, Microservices",Embedded Systems,Go,"Pandas, NumPy",ML Engineer
+"C++, Embedded Systems",DevOps,JavaScript,"Pandas, NumPy",Frontend Developer
+"Java, Spring Boot",Data Science,JavaScript,"Arduino, Raspberry Pi",Embedded Developer
+"Go, Microservices",Data Science,SQL,"AWS, Azure",DevOps Engineer
+"SQL, Database Management",DevOps,Ruby,"Spring Boot, Hibernate",Cloud Engineer
+"Java, Spring Boot",Embedded Systems,SQL,"AWS, Azure",Cloud Engineer
+"Ruby, Rails",Backend Development,Go,"Spring Boot, Hibernate",Data Scientist
+"Java, Spring Boot",Embedded Systems,Java,"Pandas, NumPy",Backend Developer
+"SQL, Database Management",Backend Development,Go,"React, Redux",ML Engineer
+"SQL, Database Management",Cloud Computing,Python,"Git, Jenkins",Backend Developer
+"SQL, Database Management",Cloud Computing,C++,"Git, Jenkins",Data Scientist
+"PHP, Laravel",AI/ML,JavaScript,"Docker, Kubernetes",Frontend Developer
+"PHP, Laravel",Frontend Development,SQL,"TensorFlow, Scikit-learn",Data Scientist
+"Python, Data Analysis",AI/ML,Java,"Git, Jenkins",ML Engineer
+"SQL, Database Management",Cloud Computing,SQL,"Pandas, NumPy",Backend Developer
+"SQL, Database Management",DevOps,Ruby,"Git, Jenkins",Backend Developer
+"Python, Machine Learning",Frontend Development,JavaScript,"Spring Boot, Hibernate",Full Stack Developer
+"SQL, Database Management",Frontend Development,PHP,"Docker, Kubernetes",Frontend Developer
+"JavaScript, React",Backend Development,Go,"Spring Boot, Hibernate",Frontend Developer
+"Go, Microservices",Embedded Systems,C++,"React, Redux",Frontend Developer
+"Ruby, Rails",Embedded Systems,C++,"Arduino, Raspberry Pi",DevOps Engineer
+"Python, Data Analysis",Embedded Systems,Java,"React, Redux",Cloud Engineer
+"SQL, Database Management",Backend Development,PHP,"Spring Boot, Hibernate",Full Stack Developer
+"JavaScript, React",Backend Development,SQL,"Arduino, Raspberry Pi",Embedded Developer
+"Python, Data Analysis",Data Science,Java,"Spring Boot, Hibernate",Cloud Engineer
+"Python, Machine Learning",DevOps,JavaScript,"Pandas, NumPy",ML Engineer
+"SQL, Database Management",AI/ML,C++,"Spring Boot, Hibernate",Embedded Developer
+"PHP, Laravel",AI/ML,Python,"Pandas, NumPy",DevOps Engineer
+"Ruby, Rails",AI/ML,JavaScript,"Spring Boot, Hibernate",Full Stack Developer
+"Python, Machine Learning",DevOps,SQL,"React, Redux",DevOps Engineer
+"SQL, Database Management",Full Stack Development,JavaScript,"TensorFlow, Scikit-learn",DevOps Engineer
+"Java, Spring Boot",Full Stack Development,Ruby,"AWS, Azure",ML Engineer
+"Ruby, Rails",AI/ML,C++,"Pandas, NumPy",DevOps Engineer
+"Ruby, Rails",Backend Development,JavaScript,"Spring Boot, Hibernate",Frontend Developer
+"Python, Machine Learning",Cloud Computing,PHP,"React, Redux",Data Scientist
+"Go, Microservices",Data Science,Java,"Arduino, Raspberry Pi",Full Stack Developer
+"C++, Embedded Systems",Embedded Systems,Go,"Git, Jenkins",ML Engineer
+"Java, Spring Boot",Cloud Computing,Python,"Spring Boot, Hibernate",Cloud Engineer
+"Ruby, Rails",DevOps,Java,"Git, Jenkins",Cloud Engineer
+"Go, Microservices",Cloud Computing,SQL,"Pandas, NumPy",DevOps Engineer
+"Python, Data Analysis",Backend Development,Ruby,"Git, Jenkins",DevOps Engineer
+"Go, Microservices",Data Science,C++,"Pandas, NumPy",Backend Developer
+"JavaScript, React",Cloud Computing,JavaScript,"AWS, Azure",Frontend Developer
+"Python, Machine Learning",Full Stack Development,C++,"Docker, Kubernetes",Data Scientist
+"Go, Microservices",Frontend Development,PHP,"Arduino, Raspberry Pi",Data Scientist
+"Java, Spring Boot",Embedded Systems,JavaScript,"AWS, Azure",Backend Developer
+"Java, Spring Boot",DevOps,JavaScript,"Docker, Kubernetes",ML Engineer
+"C++, Embedded Systems",Backend Development,Go,"Spring Boot, Hibernate",Data Scientist
+"Python, Machine Learning",Embedded Systems,Python,"React, Redux",Data Scientist
+"PHP, Laravel",AI/ML,Java,"Docker, Kubernetes",Full Stack Developer
+"Python, Data Analysis",Embedded Systems,Python,"Arduino, Raspberry Pi",DevOps Engineer
+"Ruby, Rails",AI/ML,C++,"AWS, Azure",Full Stack Developer
+"Go, Microservices",Backend Development,Go,"Arduino, Raspberry Pi",Backend Developer
+"C++, Embedded Systems",Frontend Development,JavaScript,"Docker, Kubernetes",Embedded Developer
+"Java, Spring Boot",Frontend Development,Python,"Arduino, Raspberry Pi",DevOps Engineer
+"Java, Spring Boot",Frontend Development,Python,"Docker, Kubernetes",Backend Developer
+"C++, Embedded Systems",Embedded Systems,SQL,"Git, Jenkins",Data Scientist
+"Python, Machine Learning",DevOps,Ruby,"Arduino, Raspberry Pi",DevOps Engineer
+"Go, Microservices",Full Stack Development,C++,"Pandas, NumPy",Cloud Engineer
+"Go, Microservices",Full Stack Development,SQL,"AWS, Azure",Data Scientist
+"Java, Spring Boot",Frontend Development,Ruby,"Spring Boot, Hibernate",Backend Developer
+"Java, Spring Boot",Data Science,JavaScript,"TensorFlow, Scikit-learn",ML Engineer
+"C++, Embedded Systems",Embedded Systems,JavaScript,"TensorFlow, Scikit-learn",Data Scientist
+"Ruby, Rails",Frontend Development,PHP,"React, Redux",Frontend Developer
+"Ruby, Rails",Frontend Development,Go,"Git, Jenkins",DevOps Engineer
+"Python, Machine Learning",Embedded Systems,SQL,"React, Redux",DevOps Engineer
+"Java, Spring Boot",DevOps,Go,"Spring Boot, Hibernate",Embedded Developer
+"PHP, Laravel",AI/ML,Ruby,"Docker, Kubernetes",Cloud Engineer
+"Go, Microservices",DevOps,JavaScript,"AWS, Azure",ML Engineer
+"JavaScript, React",DevOps,C++,"Docker, Kubernetes",Data Scientist
+"C++, Embedded Systems",DevOps,PHP,"Docker, Kubernetes",DevOps Engineer
+"JavaScript, React",Frontend Development,Java,"Docker, Kubernetes",Data Scientist
+"Java, Spring Boot",Backend Development,PHP,"AWS, Azure",Cloud Engineer
+"SQL, Database Management",DevOps,Go,"Arduino, Raspberry Pi",DevOps Engineer
+"Go, Microservices",AI/ML,PHP,"Spring Boot, Hibernate",DevOps Engineer
+"Ruby, Rails",Frontend Development,Go,"AWS, Azure",ML Engineer
+"PHP, Laravel",Full Stack Development,Python,"AWS, Azure",Backend Developer
+"Python, Machine Learning",Embedded Systems,Ruby,"Git, Jenkins",Cloud Engineer
+"C++, Embedded Systems",DevOps,Python,"Arduino, Raspberry Pi",Full Stack Developer
+"Java, Spring Boot",Data Science,PHP,"TensorFlow, Scikit-learn",Backend Developer
+"C++, Embedded Systems",Backend Development,C++,"Git, Jenkins",Frontend Developer
+"Java, Spring Boot",Embedded Systems,SQL,"TensorFlow, Scikit-learn",ML Engineer
+"Python, Data Analysis",Embedded Systems,Java,"React, Redux",Data Scientist
+"JavaScript, React",Embedded Systems,Go,"Git, Jenkins",Data Scientist
+"PHP, Laravel",Frontend Development,SQL,"Docker, Kubernetes",Data Scientist
+"Python, Machine Learning",Frontend Development,Java,"Arduino, Raspberry Pi",Backend Developer
+"C++, Embedded Systems",Embedded Systems,Python,"TensorFlow, Scikit-learn",Cloud Engineer
+"Ruby, Rails",Cloud Computing,C++,"Pandas, NumPy",Cloud Engineer
+"Python, Data Analysis",Data Science,C++,"Arduino, Raspberry Pi",DevOps Engineer
+"C++, Embedded Systems",Full Stack Development,PHP,"Spring Boot, Hibernate",DevOps Engineer
+"Java, Spring Boot",DevOps,Java,"AWS, Azure",Cloud Engineer
+"SQL, Database Management",DevOps,SQL,"AWS, Azure",Data Scientist
+"Ruby, Rails",Backend Development,SQL,"TensorFlow, Scikit-learn",Data Scientist
+"JavaScript, React",Data Science,JavaScript,"Spring Boot, Hibernate",Data Scientist
+"JavaScript, React",Data Science,SQL,"Docker, Kubernetes",Full Stack Developer
+"PHP, Laravel",DevOps,Python,"Docker, Kubernetes",ML Engineer
+"Java, Spring Boot",Full Stack Development,SQL,"Pandas, NumPy",ML Engineer
+"Python, Data Analysis",Embedded Systems,Java,"TensorFlow, Scikit-learn",Frontend Developer
+"Go, Microservices",Full Stack Development,Go,"AWS, Azure",Full Stack Developer
+"Python, Machine Learning",Full Stack Development,Ruby,"AWS, Azure",Data Scientist
+"JavaScript, React",Data Science,SQL,"Git, Jenkins",Embedded Developer
+"C++, Embedded Systems",Full Stack Development,C++,"Docker, Kubernetes",Frontend Developer
+"Java, Spring Boot",AI/ML,Python,"TensorFlow, Scikit-learn",DevOps Engineer
+"Ruby, Rails",Cloud Computing,JavaScript,"React, Redux",Embedded Developer
+"SQL, Database Management",Cloud Computing,Ruby,"React, Redux",DevOps Engineer
+"Python, Data Analysis",Frontend Development,JavaScript,"React, Redux",Full Stack Developer
+"Java, Spring Boot",DevOps,C++,"Spring Boot, Hibernate",Backend Developer
+"SQL, Database Management",Embedded Systems,Java,"React, Redux",Embedded Developer
+"SQL, Database Management",Cloud Computing,Go,"Arduino, Raspberry Pi",Frontend Developer
+"Java, Spring Boot",Backend Development,C++,"Pandas, NumPy",Data Scientist
+"Python, Data Analysis",Frontend Development,Java,"Spring Boot, Hibernate",DevOps Engineer
+"Ruby, Rails",Backend Development,Java,"Docker, Kubernetes",Data Scientist
+"Java, Spring Boot",Cloud Computing,JavaScript,"TensorFlow, Scikit-learn",Cloud Engineer
+"C++, Embedded Systems",Full Stack Development,SQL,"Docker, Kubernetes",ML Engineer
+"SQL, Database Management",Full Stack Development,Python,"TensorFlow, Scikit-learn",Data Scientist
+"Ruby, Rails",AI/ML,Ruby,"Pandas, NumPy",Full Stack Developer
+"C++, Embedded Systems",Frontend Development,SQL,"Docker, Kubernetes",DevOps Engineer
+"Java, Spring Boot",Backend Development,PHP,"Pandas, NumPy",ML Engineer
+"Python, Machine Learning",Backend Development,C++,"Docker, Kubernetes",Embedded Developer
+"Python, Machine Learning",AI/ML,Ruby,"AWS, Azure",Backend Developer
+"Ruby, Rails",Backend Development,SQL,"Docker, Kubernetes",Cloud Engineer
+"SQL, Database Management",Full Stack Development,Python,"Arduino, Raspberry Pi",Full Stack Developer
+"SQL, Database Management",Data Science,JavaScript,"Docker, Kubernetes",DevOps Engineer
+"JavaScript, React",Data Science,Java,"Arduino, Raspberry Pi",ML Engineer
+"Python, Data Analysis",Embedded Systems,SQL,"TensorFlow, Scikit-learn",ML Engineer
+"Python, Machine Learning",Cloud Computing,JavaScript,"AWS, Azure",ML Engineer
+"SQL, Database Management",Backend Development,Python,"Pandas, NumPy",Data Scientist
+"Ruby, Rails",Embedded Systems,Go,"TensorFlow, Scikit-learn",Backend Developer
+"C++, Embedded Systems",Cloud Computing,Go,"React, Redux",Cloud Engineer
+"Go, Microservices",Full Stack Development,PHP,"TensorFlow, Scikit-learn",ML Engineer
+"Java, Spring Boot",Frontend Development,Ruby,"Spring Boot, Hibernate",Backend Developer
+"Python, Data Analysis",Full Stack Development,Ruby,"React, Redux",DevOps Engineer
+"Go, Microservices",Cloud Computing,C++,"Arduino, Raspberry Pi",Embedded Developer
+"Go, Microservices",Cloud Computing,C++,"TensorFlow, Scikit-learn",Cloud Engineer
+"SQL, Database Management",AI/ML,Ruby,"AWS, Azure",Embedded Developer
+"PHP, Laravel",Data Science,C++,"Docker, Kubernetes",Frontend Developer
+"C++, Embedded Systems",Full Stack Development,PHP,"Pandas, NumPy",Backend Developer
+"PHP, Laravel",Frontend Development,Java,"Pandas, NumPy",Embedded Developer
+"Go, Microservices",Backend Development,JavaScript,"Spring Boot, Hibernate",Cloud Engineer
+"Ruby, Rails",Full Stack Development,PHP,"Git, Jenkins",Data Scientist
+"Go, Microservices",AI/ML,C++,"Docker, Kubernetes",ML Engineer
+"Go, Microservices",Cloud Computing,JavaScript,"Pandas, NumPy",Full Stack Developer
+"C++, Embedded Systems",Data Science,Ruby,"Docker, Kubernetes",Cloud Engineer
+"PHP, Laravel",Data Science,JavaScript,"Pandas, NumPy",DevOps Engineer
+"JavaScript, React",AI/ML,JavaScript,"Docker, Kubernetes",Cloud Engineer
+"C++, Embedded Systems",Frontend Development,Java,"Arduino, Raspberry Pi",ML Engineer
+"JavaScript, React",Cloud Computing,Python,"Docker, Kubernetes",Data Scientist
+"PHP, Laravel",Backend Development,Go,"Spring Boot, Hibernate",Data Scientist
+"PHP, Laravel",Frontend Development,Python,"Git, Jenkins",Frontend Developer
+"Python, Machine Learning",Full Stack Development,JavaScript,"Spring Boot, Hibernate",Cloud Engineer
+"Python, Data Analysis",Full Stack Development,Go,"TensorFlow, Scikit-learn",Cloud Engineer
+"Ruby, Rails",AI/ML,Python,"React, Redux",Frontend Developer
+"Java, Spring Boot",Embedded Systems,Ruby,"Pandas, NumPy",Data Scientist
+"Go, Microservices",Cloud Computing,Python,"TensorFlow, Scikit-learn",ML Engineer
+"Python, Data Analysis",Full Stack Development,SQL,"Docker, Kubernetes",ML Engineer
+"JavaScript, React",DevOps,SQL,"AWS, Azure",ML Engineer
+"JavaScript, React",Embedded Systems,Ruby,"AWS, Azure",Cloud Engineer
+"PHP, Laravel",Data Science,JavaScript,"TensorFlow, Scikit-learn",DevOps Engineer
+"Ruby, Rails",Backend Development,Java,"TensorFlow, Scikit-learn",DevOps Engineer
+"Go, Microservices",Cloud Computing,PHP,"React, Redux",Data Scientist
+"Java, Spring Boot",Data Science,Java,"Docker, Kubernetes",DevOps Engineer
+"PHP, Laravel",Data Science,JavaScript,"Pandas, NumPy",Data Scientist
+"C++, Embedded Systems",Frontend Development,Python,"AWS, Azure",Embedded Developer
+"Python, Data Analysis",AI/ML,Python,"Docker, Kubernetes",ML Engineer
+"JavaScript, React",Frontend Development,SQL,"AWS, Azure",DevOps Engineer
+"SQL, Database Management",Data Science,JavaScript,"Spring Boot, Hibernate",Frontend Developer
+"Python, Machine Learning",Data Science,JavaScript,"Pandas, NumPy",Data Scientist
+"Python, Data Analysis",Cloud Computing,Go,"Arduino, Raspberry Pi",Full Stack Developer
+"Python, Data Analysis",Embedded Systems,SQL,"TensorFlow, Scikit-learn",Frontend Developer
+"SQL, Database Management",AI/ML,JavaScript,"Arduino, Raspberry Pi",Backend Developer
+"PHP, Laravel",DevOps,Python,"Arduino, Raspberry Pi",Frontend Developer
+"PHP, Laravel",Cloud Computing,Python,"Spring Boot, Hibernate",ML Engineer
+"Go, Microservices",DevOps,Ruby,"React, Redux",Frontend Developer
+"PHP, Laravel",Cloud Computing,Java,"TensorFlow, Scikit-learn",Full Stack Developer
+"Python, Data Analysis",Frontend Development,JavaScript,"Arduino, Raspberry Pi",Cloud Engineer
+"SQL, Database Management",Data Science,Ruby,"React, Redux",Cloud Engineer
+"Ruby, Rails",Cloud Computing,SQL,"Pandas, NumPy",Data Scientist
+"Go, Microservices",AI/ML,PHP,"Git, Jenkins",DevOps Engineer
+"SQL, Database Management",Full Stack Development,C++,"Docker, Kubernetes",DevOps Engineer
+"Python, Machine Learning",Backend Development,Ruby,"TensorFlow, Scikit-learn",Data Scientist
+"JavaScript, React",Cloud Computing,Java,"Git, Jenkins",Full Stack Developer
+"Python, Machine Learning",AI/ML,Python,"Docker, Kubernetes",Embedded Developer
+"Python, Data Analysis",AI/ML,C++,"TensorFlow, Scikit-learn",Backend Developer
+"Java, Spring Boot",Data Science,SQL,"React, Redux",ML Engineer
+"PHP, Laravel",DevOps,Go,"Arduino, Raspberry Pi",Backend Developer
+"Python, Machine Learning",Backend Development,C++,"Arduino, Raspberry Pi",Full Stack Developer
+"PHP, Laravel",Full Stack Development,SQL,"Docker, Kubernetes",Data Scientist
+"SQL, Database Management",Full Stack Development,C++,"AWS, Azure",Backend Developer
+"PHP, Laravel",Frontend Development,Python,"Pandas, NumPy",Cloud Engineer
+"SQL, Database Management",Frontend Development,Python,"Git, Jenkins",Cloud Engineer
+"Python, Data Analysis",DevOps,C++,"Docker, Kubernetes",DevOps Engineer
+"PHP, Laravel",DevOps,Ruby,"Git, Jenkins",ML Engineer
+"SQL, Database Management",Frontend Development,Ruby,"Docker, Kubernetes",DevOps Engineer
+"Go, Microservices",Frontend Development,SQL,"React, Redux",Embedded Developer
+"Go, Microservices",Data Science,C++,"Arduino, Raspberry Pi",Full Stack Developer
+"C++, Embedded Systems",AI/ML,SQL,"React, Redux",Data Scientist
+"C++, Embedded Systems",Backend Development,PHP,"Pandas, NumPy",ML Engineer
+"Ruby, Rails",DevOps,Ruby,"Arduino, Raspberry Pi",Cloud Engineer
+"JavaScript, React",AI/ML,Java,"Pandas, NumPy",ML Engineer
+"SQL, Database Management",Frontend Development,C++,"Git, Jenkins",Data Scientist
+"C++, Embedded Systems",Cloud Computing,Go,"Spring Boot, Hibernate",Backend Developer
+"Go, Microservices",Cloud Computing,Java,"Docker, Kubernetes",Frontend Developer
+"Go, Microservices",Embedded Systems,Go,"Git, Jenkins",Embedded Developer
+"C++, Embedded Systems",Data Science,Go,"AWS, Azure",Data Scientist
+"Python, Machine Learning",Frontend Development,Ruby,"Spring Boot, Hibernate",Embedded Developer
+"JavaScript, React",Cloud Computing,SQL,"Pandas, NumPy",Backend Developer
+"PHP, Laravel",Full Stack Development,PHP,"AWS, Azure",Data Scientist
+"Java, Spring Boot",Cloud Computing,Go,"Spring Boot, Hibernate",ML Engineer
+"SQL, Database Management",Backend Development,JavaScript,"Arduino, Raspberry Pi",Data Scientist
+"JavaScript, React",AI/ML,PHP,"Pandas, NumPy",Backend Developer
+"Python, Machine Learning",Backend Development,PHP,"Spring Boot, Hibernate",Frontend Developer
+"Go, Microservices",Cloud Computing,Python,"React, Redux",ML Engineer
+"SQL, Database Management",Data Science,Go,"Spring Boot, Hibernate",Data Scientist
+"Python, Machine Learning",AI/ML,JavaScript,"Git, Jenkins",Full Stack Developer
+"Ruby, Rails",Cloud Computing,C++,"TensorFlow, Scikit-learn",Embedded Developer
+"Go, Microservices",Embedded Systems,Java,"React, Redux",DevOps Engineer
+"Python, Machine Learning",Data Science,SQL,"Spring Boot, Hibernate",Data Scientist
+"JavaScript, React",Frontend Development,JavaScript,"TensorFlow, Scikit-learn",DevOps Engineer
+"Python, Data Analysis",Frontend Development,Ruby,"Spring Boot, Hibernate",DevOps Engineer
+"Ruby, Rails",AI/ML,JavaScript,"TensorFlow, Scikit-learn",DevOps Engineer
+"JavaScript, React",Data Science,C++,"AWS, Azure",Cloud Engineer
+"C++, Embedded Systems",DevOps,Go,"Pandas, NumPy",Data Scientist
+"Ruby, Rails",Embedded Systems,Python,"React, Redux",DevOps Engineer
+"Java, Spring Boot",AI/ML,Go,"Arduino, Raspberry Pi",Cloud Engineer
+"JavaScript, React",Frontend Development,JavaScript,"Docker, Kubernetes",DevOps Engineer
+"Go, Microservices",Embedded Systems,Java,"React, Redux",DevOps Engineer
+"Java, Spring Boot",DevOps,Go,"Spring Boot, Hibernate",ML Engineer
+"SQL, Database Management",Embedded Systems,Python,"Docker, Kubernetes",Frontend Developer
+"Go, Microservices",Data Science,PHP,"Docker, Kubernetes",Data Scientist
+"C++, Embedded Systems",Cloud Computing,PHP,"React, Redux",Full Stack Developer
+"PHP, Laravel",Cloud Computing,C++,"TensorFlow, Scikit-learn",Frontend Developer
+"Go, Microservices",DevOps,Python,"AWS, Azure",Data Scientist
+"Java, Spring Boot",AI/ML,PHP,"Git, Jenkins",Cloud Engineer
+"SQL, Database Management",DevOps,SQL,"Docker, Kubernetes",ML Engineer
+"Go, Microservices",Backend Development,C++,"Arduino, Raspberry Pi",Backend Developer
+"Ruby, Rails",Cloud Computing,PHP,"Pandas, NumPy",Frontend Developer
+"SQL, Database Management",Embedded Systems,C++,"Arduino, Raspberry Pi",Backend Developer
+"Java, Spring Boot",Data Science,Ruby,"Pandas, NumPy",Embedded Developer
+"Python, Machine Learning",Frontend Development,Ruby,"React, Redux",ML Engineer
+"Python, Machine Learning",Cloud Computing,SQL,"Arduino, Raspberry Pi",Embedded Developer
+"Python, Data Analysis",Full Stack Development,Python,"Spring Boot, Hibernate",Backend Developer
+"Python, Data Analysis",Data Science,PHP,"Spring Boot, Hibernate",Frontend Developer
+"Python, Machine Learning",Full Stack Development,Java,"Docker, Kubernetes",Full Stack Developer
+"Python, Machine Learning",Full Stack Development,C++,"Pandas, NumPy",Full Stack Developer
+"Ruby, Rails",Cloud Computing,Python,"Docker, Kubernetes",Embedded Developer
+"Java, Spring Boot",Frontend Development,Ruby,"Pandas, NumPy",ML Engineer
+"Python, Machine Learning",Backend Development,SQL,"React, Redux",Data Scientist
+"Java, Spring Boot",Full Stack Development,SQL,"TensorFlow, Scikit-learn",Full Stack Developer
+"Python, Data Analysis",DevOps,PHP,"Arduino, Raspberry Pi",Frontend Developer
+"PHP, Laravel",Frontend Development,C++,"Docker, Kubernetes",Backend Developer
+"C++, Embedded Systems",Backend Development,Python,"Arduino, Raspberry Pi",Backend Developer
+"Java, Spring Boot",DevOps,C++,"Arduino, Raspberry Pi",Backend Developer
+"Go, Microservices",AI/ML,Java,"React, Redux",Frontend Developer
+"Java, Spring Boot",Data Science,SQL,"Spring Boot, Hibernate",Frontend Developer
+"Java, Spring Boot",Backend Development,Python,"AWS, Azure",Data Scientist
+"Python, Data Analysis",Frontend Development,Python,"Spring Boot, Hibernate",DevOps Engineer
+"Ruby, Rails",Cloud Computing,C++,"Git, Jenkins",Data Scientist
+"Ruby, Rails",Frontend Development,Ruby,"Spring Boot, Hibernate",Data Scientist
+"Java, Spring Boot",Embedded Systems,JavaScript,"TensorFlow, Scikit-learn",Data Scientist
+"SQL, Database Management",AI/ML,Ruby,"TensorFlow, Scikit-learn",ML Engineer
+"C++, Embedded Systems",Backend Development,JavaScript,"Pandas, NumPy",Frontend Developer
+"SQL, Database Management",AI/ML,PHP,"TensorFlow, Scikit-learn",DevOps Engineer
+"C++, Embedded Systems",Full Stack Development,JavaScript,"Git, Jenkins",Full Stack Developer
+"Python, Machine Learning",Data Science,Python,"TensorFlow, Scikit-learn",ML Engineer
+"Go, Microservices",AI/ML,PHP,"Docker, Kubernetes",Backend Developer
+"Python, Data Analysis",Cloud Computing,C++,"AWS, Azure",Full Stack Developer
+"C++, Embedded Systems",Backend Development,PHP,"TensorFlow, Scikit-learn",DevOps Engineer
+"JavaScript, React",Data Science,C++,"Spring Boot, Hibernate",Backend Developer
+"Go, Microservices",Embedded Systems,Python,"Arduino, Raspberry Pi",Cloud Engineer
+"C++, Embedded Systems",Frontend Development,C++,"Docker, Kubernetes",Backend Developer
+"PHP, Laravel",Embedded Systems,Java,"Docker, Kubernetes",Cloud Engineer
+"Java, Spring Boot",Embedded Systems,PHP,"Git, Jenkins",DevOps Engineer
+"PHP, Laravel",Full Stack Development,Python,"Spring Boot, Hibernate",Full Stack Developer
+"JavaScript, React",DevOps,Ruby,"Git, Jenkins",Cloud Engineer
+"Python, Machine Learning",Data Science,C++,"AWS, Azure",Cloud Engineer
+"Ruby, Rails",Embedded Systems,SQL,"Spring Boot, Hibernate",Full Stack Developer
+"SQL, Database Management",Full Stack Development,Python,"Spring Boot, Hibernate",Backend Developer
+"SQL, Database Management",Full Stack Development,Python,"Arduino, Raspberry Pi",Cloud Engineer
+"PHP, Laravel",Data Science,Python,"Git, Jenkins",Data Scientist
+"SQL, Database Management",Frontend Development,Go,"Docker, Kubernetes",Data Scientist
+"JavaScript, React",Frontend Development,Ruby,"TensorFlow, Scikit-learn",Frontend Developer
+"Python, Machine Learning",Cloud Computing,SQL,"TensorFlow, Scikit-learn",Embedded Developer
+"Python, Data Analysis",Cloud Computing,Ruby,"AWS, Azure",Embedded Developer
+"Python, Machine Learning",Cloud Computing,PHP,"React, Redux",Full Stack Developer
+"Go, Microservices",DevOps,JavaScript,"React, Redux",Cloud Engineer
+"Python, Machine Learning",Data Science,C++,"Arduino, Raspberry Pi",ML Engineer
+"Java, Spring Boot",Data Science,Java,"React, Redux",Embedded Developer
+"Java, Spring Boot",Cloud Computing,SQL,"TensorFlow, Scikit-learn",Embedded Developer
+"SQL, Database Management",Full Stack Development,Ruby,"AWS, Azure",Backend Developer
+"Ruby, Rails",Cloud Computing,PHP,"Arduino, Raspberry Pi",Embedded Developer
+"C++, Embedded Systems",Frontend Development,JavaScript,"Docker, Kubernetes",Data Scientist
+"Python, Machine Learning",Data Science,SQL,"Docker, Kubernetes",DevOps Engineer
+"Python, Data Analysis",Data Science,C++,"TensorFlow, Scikit-learn",Frontend Developer
+"Java, Spring Boot",Frontend Development,JavaScript,"React, Redux",Frontend Developer
+"C++, Embedded Systems",Frontend Development,Ruby,"Docker, Kubernetes",Backend Developer
+"JavaScript, React",Frontend Development,SQL,"AWS, Azure",Frontend Developer
+"Python, Data Analysis",DevOps,Java,"Pandas, NumPy",Data Scientist
+"Java, Spring Boot",Full Stack Development,Ruby,"Spring Boot, Hibernate",Full Stack Developer
+"Python, Machine Learning",AI/ML,C++,"React, Redux",DevOps Engineer
+"SQL, Database Management",Data Science,JavaScript,"Spring Boot, Hibernate",Full Stack Developer
+"Python, Machine Learning",Backend Development,JavaScript,"Git, Jenkins",Full Stack Developer
+"Go, Microservices",Full Stack Development,PHP,"AWS, Azure",DevOps Engineer
+"Java, Spring Boot",Full Stack Development,Java,"Arduino, Raspberry Pi",DevOps Engineer
+"SQL, Database Management",Cloud Computing,Go,"React, Redux",Frontend Developer
+"JavaScript, React",Backend Development,Java,"TensorFlow, Scikit-learn",ML Engineer
+"JavaScript, React",Frontend Development,PHP,"Spring Boot, Hibernate",Full Stack Developer
+"SQL, Database Management",AI/ML,JavaScript,"Arduino, Raspberry Pi",Embedded Developer
+"Ruby, Rails",Embedded Systems,JavaScript,"TensorFlow, Scikit-learn",Full Stack Developer
+"JavaScript, React",Data Science,Java,"AWS, Azure",Full Stack Developer
+"SQL, Database Management",Full Stack Development,Java,"Docker, Kubernetes",Cloud Engineer
+"C++, Embedded Systems",Cloud Computing,Ruby,"React, Redux",ML Engineer
+"SQL, Database Management",Frontend Development,SQL,"AWS, Azure",Embedded Developer
+"PHP, Laravel",DevOps,Java,"TensorFlow, Scikit-learn",Backend Developer
+"Python, Data Analysis",Embedded Systems,C++,"AWS, Azure",Full Stack Developer
+"Ruby, Rails",DevOps,PHP,"Docker, Kubernetes",DevOps Engineer
+"Ruby, Rails",AI/ML,SQL,"Arduino, Raspberry Pi",Frontend Developer
+"Python, Machine Learning",AI/ML,PHP,"Spring Boot, Hibernate",Data Scientist
+"Go, Microservices",Embedded Systems,Go,"React, Redux",Cloud Engineer
+"C++, Embedded Systems",Frontend Development,JavaScript,"Pandas, NumPy",ML Engineer
+"Python, Data Analysis",DevOps,JavaScript,"Git, Jenkins",Embedded Developer
+"C++, Embedded Systems",Full Stack Development,Python,"Docker, Kubernetes",Backend Developer
+"C++, Embedded Systems",Backend Development,C++,"React, Redux",Cloud Engineer
+"JavaScript, React",Frontend Development,C++,"React, Redux",Backend Developer
+"Ruby, Rails",AI/ML,Go,"Spring Boot, Hibernate",Frontend Developer
+"Java, Spring Boot",Embedded Systems,JavaScript,"Docker, Kubernetes",DevOps Engineer
+"Python, Machine Learning",Full Stack Development,Go,"Git, Jenkins",Cloud Engineer
+"PHP, Laravel",DevOps,JavaScript,"React, Redux",Frontend Developer
+"Python, Data Analysis",Data Science,Python,"Pandas, NumPy",DevOps Engineer
+"Ruby, Rails",Backend Development,Ruby,"React, Redux",Backend Developer
+"PHP, Laravel",DevOps,PHP,"Git, Jenkins",ML Engineer
+"Java, Spring Boot",AI/ML,JavaScript,"Spring Boot, Hibernate",Backend Developer
+"Python, Machine Learning",Frontend Development,JavaScript,"TensorFlow, Scikit-learn",DevOps Engineer
+"SQL, Database Management",Frontend Development,SQL,"TensorFlow, Scikit-learn",Full Stack Developer
+"Ruby, Rails",Backend Development,Python,"Spring Boot, Hibernate",Backend Developer
+"Go, Microservices",AI/ML,C++,"TensorFlow, Scikit-learn",Full Stack Developer
+"Python, Data Analysis",AI/ML,Go,"Spring Boot, Hibernate",Data Scientist
+"JavaScript, React",AI/ML,JavaScript,"Pandas, NumPy",ML Engineer
+"JavaScript, React",AI/ML,Go,"Git, Jenkins",Data Scientist
+"C++, Embedded Systems",Embedded Systems,Ruby,"Git, Jenkins",Backend Developer
+"Python, Machine Learning",Cloud Computing,Go,"Pandas, NumPy",Embedded Developer
+"C++, Embedded Systems",Backend Development,SQL,"Pandas, NumPy",Frontend Developer
+"Python, Machine Learning",Frontend Development,C++,"AWS, Azure",Full Stack Developer
+"Java, Spring Boot",Full Stack Development,Java,"Git, Jenkins",ML Engineer
+"Python, Data Analysis",Cloud Computing,SQL,"Git, Jenkins",DevOps Engineer
+"C++, Embedded Systems",Data Science,Ruby,"Docker, Kubernetes",Full Stack Developer
+"Ruby, Rails",Cloud Computing,Go,"React, Redux",Backend Developer
+"Python, Machine Learning",Embedded Systems,C++,"React, Redux",ML Engineer
+"Python, Machine Learning",AI/ML,JavaScript,"AWS, Azure",Cloud Engineer
+"Go, Microservices",Frontend Development,Java,"Spring Boot, Hibernate",Embedded Developer
+"Java, Spring Boot",AI/ML,C++,"AWS, Azure",Data Scientist
+"C++, Embedded Systems",Data Science,Python,"Pandas, NumPy",Backend Developer
+"Java, Spring Boot",Backend Development,SQL,"Spring Boot, Hibernate",DevOps Engineer
+"Go, Microservices",Full Stack Development,Python,"React, Redux",Backend Developer
+"Python, Data Analysis",Cloud Computing,Ruby,"Docker, Kubernetes",Backend Developer
+"Java, Spring Boot",Embedded Systems,Go,"Arduino, Raspberry Pi",Backend Developer
+"C++, Embedded Systems",Full Stack Development,Ruby,"React, Redux",Cloud Engineer
+"Go, Microservices",AI/ML,Java,"Git, Jenkins",Embedded Developer
+"Java, Spring Boot",Backend Development,SQL,"React, Redux",DevOps Engineer
